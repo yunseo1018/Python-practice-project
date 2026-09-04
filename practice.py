@@ -16,7 +16,7 @@ print(False)
 print(5>3)
 print(not 5>3)
 
-# 애완동물을 소개해 주세요~
+# 애완동물을 소개해 주세요~!
 animal = "강아지"
 name = "연탄이"
 age = 4

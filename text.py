@@ -1,2 +1,6 @@
 print("hello python")
 print("hello python")
+
+print("잘하고 싶다 파이썬")
+print("성공하고 싶다")
+print("열심히 하고 싶다")
