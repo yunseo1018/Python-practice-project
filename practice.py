@@ -16,6 +16,7 @@ print(True)
 print(False)
 print(5>3)
 print(not 5>3)
+print(5>3 and 3>1)
 
 # 애완동물을 소개해 주세요~!
 animal = "강아지"
