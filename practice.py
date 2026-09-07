@@ -34,4 +34,7 @@ print(name + "는 " + str(age) + "살입니다.")
 #  ","를 이용한 문자열 연결 띄어쓰기 차이
 print(name, "는 ", str(age), "살입니다.")
 print(name + "는 " + hobby + "을 좋아합니다.")
+
+name = "복실이"
 print(name + "는 성년입니까? " + str(is_adult))
+
