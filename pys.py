@@ -1,1 +1,2 @@
 i = "Kiwi"
+print(i)
